@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Grid2/> should check that the div is called 1`] = `
+"<Grid>
+  <div>
+    <div className=\\"grid-container\\">
+      <div className=\\"grid\\" onClick={[Function: onClick]}>
+        o
+      </div>
+      <div className=\\"grid\\" onClick={[Function: onClick]} />
+      <div className=\\"grid\\" onClick={[Function: onClick]} />
+      <div className=\\"grid\\" onClick={[Function: onClick]} />
+      <div className=\\"grid\\" onClick={[Function: onClick]} />
+      <div className=\\"grid\\" onClick={[Function: onClick]} />
+      <div className=\\"grid\\" onClick={[Function: onClick]} />
+      <div className=\\"grid\\" onClick={[Function: onClick]} />
+      <div className=\\"grid\\" onClick={[Function: onClick]} />
+    </div>
+    <div>
+       It is 
+      x
+       turn!
+    </div>
+  </div>
+</Grid>"
+`;
